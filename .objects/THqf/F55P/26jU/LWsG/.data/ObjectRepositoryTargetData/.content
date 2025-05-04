@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="r4zklzuGHUWLwul2TTgAFA" Reference="Z4m0jzb6BES6yiToqqZSoA/LWsGOs-byEON9XZ5odG71w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CvElementArea="748, 760, 103, 42" CvTextArea="775, 774, 50, 13" CvTextArgument="Refresh" CvType="Button" DesignTimeRectangle="872, 790, 100, 40" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Refresh'" FullSelectorArgument="&lt;webctrl id='buttonRefres' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='buttonRefres' tag='BUTTON' type='button' class='skewBtn blue' aaname='Refresh' check:innerText='Refresh' /&gt;" Guid="6e75987d-8f48-484d-bc08-21dacac24abb" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4a77cccff7937b69d0dbe103eea00dab.png" xmlns="">0_Y9mcwPUg0yB0jbfnRuETg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Vtwlwr7PyE2M-uTJSbEB2g" Reference="Z4m0jzb6BES6yiToqqZSoA/ku3OPIVRdESmCsoSNL8WOQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CvElementArea="630, 378, 44, 37" CvType="Icon" DesignTimeRectangle="1093, 395, 37, 41" DesignTimeScaleFactor="1" FriendlyName="'I'" FullSelectorArgument="&lt;webctrl idx='3' tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='I' class='far fa-address-card card' aaname='' /&gt;" Guid="53d2d145-c588-40dd-8c74-61297c51d31d" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACsAAAAoCAYAAABnyQNuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAITSURBVFhH7Zcxa+MwGIbvP2XxECiEQocs9XKGctlycIFCO5zpkKXkBtMhZEmhZDjTxVMKSaHgQnJD8S3uEjjwUBAHhhtEwH/hbXKJIzlR09qxK4dmeBbp++QHWfokfQqCANvCTjYrtluWei6Gg2EucD0aceNkKZyWBqVQQCFHqD9skPGSLB00cic6Q0H91o/KOhdcQEmFdqTJ5UBhPhfOGtl5p0yIVdvJZkKqsuS3BeNkvr6+6ugMiDAuKSnJUriXFWHlUCd5VJgTn1Rk6YOBchi3ggK9Nyszy5D7Dpqt5hq6cCkXv7kshX3OxYk47oIIciPjC6nBemLxKcgSWN+4OBGlNhxBLv1jwxTO6Jzr4eKkmiJ1ZuMidc0G/giO4LKy4MGLbM5UZJNWAwlrlhG3zo5+VqNn/woN2D6LT1U2az6Q7JhgeKWj+nkfSnEflTMD5s18c9xZaJ5VoZYK2DusQp8WeO6XThldqWx8EcU6+qksg38OjEOu/y2UTtH12BhOi7ufCkllg/nof3/tQy/wxYQXjkN9+H/XEX1vJZOlNhphe2yisxWHZLJPFmphe2zeW9bvQw/bY1NDlzCBOCTeYOSXKb58vIK5wYU8sawMdrJZsVbWvSyzzpyhtJZkg8c2VEGgfFS0H2eOTHYCuTegFUUJkihqqPe8hV9E9j9jKjgK5UC5N9mUVdkcs5PNii2SDfAMP/J7GE+jVYUAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="692, 385, 161, 28" CvTextArgument="Olga v Hunter" CvType="Text" DesignTimeRectangle="1139, 401, 161, 26" ElementType="Text" FriendlyName="'Olga V Hunter'" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}' class='name' tag='DIV' /&gt;&quot;, EmployeeName)]" FuzzyMatches="10000" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}' class='name' tag='DIV' type='' check:innerText='{0}' /&gt;&quot;, EmployeeName)]" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6099d3f19b7cb54af338442ca5c00b11.png" xmlns="">05InrouJiJE2R4H7i3V8qlg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Bridget K Herrera" Name="EmployeeName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

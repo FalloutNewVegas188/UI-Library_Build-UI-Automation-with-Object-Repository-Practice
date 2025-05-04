@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f107cK7AaES7mmIoRXcBIQ" Reference="Z4m0jzb6BES6yiToqqZSoA/fHUvqbvm1Ua3-qJMkZ-WVA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CvTextArea="1187, 283, 17, 19" CvTextArgument="X" CvType="Text" DesignTimeRectangle="1184, 280, 24, 25" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'X'" FullSelectorArgument="&lt;webctrl parentid='openModalRefresh' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='openModalRefresh' tag='A' type='' class='close' aaname='X' /&gt;" Guid="42367e8e-28d0-40f3-a0ac-8ccc94b8f15f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b12e82be3e95dd3906cea91334d31ffe.png" xmlns="">0_Q0WCE9bp0y5xZ-m9O-6AQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

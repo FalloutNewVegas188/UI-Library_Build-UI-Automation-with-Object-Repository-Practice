@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Close Opening - Employee Candidate",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "fHUvqbvm1Ua3-qJMkZ-WVA",
+  "Reference": "Z4m0jzb6BES6yiToqqZSoA/fHUvqbvm1Ua3-qJMkZ-WVA",
+  "ParentRef": "Z4m0jzb6BES6yiToqqZSoA/26jUn4t25UW-1TSUak8u9Q",
+  "Created": "2024-03-02T00:08:20.55675Z",
+  "Updated": "2024-03-02T01:14:38.2739113Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Close Employee Detail",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "_BAgcVk_s0e4V6UKZ_q-5g",
+  "Reference": "Z4m0jzb6BES6yiToqqZSoA/_BAgcVk_s0e4V6UKZ_q-5g",
+  "ParentRef": "Z4m0jzb6BES6yiToqqZSoA/26jUn4t25UW-1TSUak8u9Q",
+  "Created": "2024-03-02T01:16:59.6989396Z",
+  "Updated": "2024-03-02T01:16:59.6989396Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

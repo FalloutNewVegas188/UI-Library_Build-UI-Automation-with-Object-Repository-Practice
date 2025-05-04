@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5q-TONHAXkamxi8jkYea-g" Reference="Z4m0jzb6BES6yiToqqZSoA/K5in_9e54ESHnPhrSAFP-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CvTextArea="962, 324, 129, 22" CvTextArgument="Olga V Hunter" CvType="Text" DesignTimeRectangle="948, 320, 275, 29" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Olga V Hunter'" FullSelectorArgument="&lt;webctrl id='card_full_name' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='card_full_name' tag='DIV' type='' class='col-md-6 value' aaname='Olga V Hunter' /&gt;" Guid="3a350e66-8f97-4efc-b824-ddc51352412f" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="830, 324, 103, 18" CvTextArgument="Full Name:" CvType="Text" DesignTimeRectangle="673, 320, 275, 29" ElementType="Text" FriendlyName="'Full Name'" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='col-md-6' aaname='Full Name:' check:innerText='Full Name:' /&gt;" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="09f069b32165735e05c23e347293bbd2.png" xmlns="">00jra8yxkvk2SpmDvlzpFeA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

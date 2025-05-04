@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Employee Full Name",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "K5in_9e54ESHnPhrSAFP-Q",
+  "Reference": "Z4m0jzb6BES6yiToqqZSoA/K5in_9e54ESHnPhrSAFP-Q",
+  "ParentRef": "Z4m0jzb6BES6yiToqqZSoA/26jUn4t25UW-1TSUak8u9Q",
+  "Created": "2024-03-02T00:08:20.4513232Z",
+  "Updated": "2024-03-02T00:29:08.8640591Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

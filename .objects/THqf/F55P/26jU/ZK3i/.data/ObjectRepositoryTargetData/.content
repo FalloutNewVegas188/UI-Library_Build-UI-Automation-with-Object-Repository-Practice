@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ox83u2_ufUGKdZrIEDhwXA" Reference="Z4m0jzb6BES6yiToqqZSoA/ZK3ihF4ZAU2qr2pkYaunOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CvTextArea="896, 310, 87, 13" CvTextArgument="[EmployeeName]" CvType="Text" DesignTimeRectangle="688, 307, 520, 20" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Jose A Bacon'" FullSelectorArgument="&lt;webctrl id='candidateName' tag='DIV' /&gt;" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl id='candidateName' tag='DIV' type='' class='' aaname='{0}' /&gt;&quot;, EmployeeName)]" Guid="75f787d0-fb3d-4699-89ed-aa1cc05c1af0" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="823, 290, 234, 13" CvTextArgument="Please select the following candidate:" CvType="Text" DesignTimeRectangle="688, 287, 520, 20" ElementType="Text" FriendlyName="'Please select'" FullSelectorArgument="&lt;webctrl isleaf='1' parentid='openModalRefresh' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl isleaf='1' parentid='openModalRefresh' tag='DIV' type='' class='' aaname='Please select the following candidate:' /&gt;" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1e86536e3c3e3ef5bf62580eb2d8423a.png" xmlns="">0ZjfdG3QgOkiCdxvS1drgJg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Jose A Bacon" Name="EmployeeName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

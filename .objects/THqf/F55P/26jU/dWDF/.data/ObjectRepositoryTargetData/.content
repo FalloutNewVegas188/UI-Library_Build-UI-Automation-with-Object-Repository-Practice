@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b1jyDiL74kSvS_IgCaBptw" Reference="Z4m0jzb6BES6yiToqqZSoA/dWDFIDO_XEGonIszSzurtw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/employees" CvTextArea="961, 358, 127, 19" CvTextArgument="337-338-1906" CvType="Text" DesignTimeRectangle="948, 354, 275, 29" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'337-338-1906'" FullSelectorArgument="&lt;webctrl id='card_phone_number' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='card_phone_number' tag='DIV' type='' class='col-md-6 value' aaname='337-338-1906' check:innerText='337-338-1906' /&gt;" Guid="a102567c-864b-435a-94f2-599a6911bda5" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="783, 358, 150, 18" CvTextArgument="Phone Number:" CvType="Text" DesignTimeRectangle="673, 354, 275, 29" ElementType="Text" FriendlyName="'Phone Number'" FullSelectorArgument="&lt;webctrl aaname='Phone Number:' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Phone Number:' tag='LABEL' type='' class='col-md-6' check:innerText='Phone Number:' /&gt;" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="48d0a7a7f4fc63e7ae60662aafbd4f4c.png" xmlns="">07vd2qid2Ek2VOp8Mzj4XyQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
